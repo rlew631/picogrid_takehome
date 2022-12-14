@@ -1,0 +1,27 @@
+{
+  "name": "overlapping_lines",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "picogrid takehome",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "collectCoverage":true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlew631/picogrid_takehome.git"
+  },
+  "author": "ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlew631/picogrid_takehome/issues"
+  },
+  "homepage": "https://github.com/rlew631/picogrid_takehome#readme",
+  "dependencies": {
+    "jest": "^29.3.1",
+    "save-dev": "^0.0.1-security"
+  }
+}
